@@ -1,0 +1,7 @@
+- Non-root administrative user created
+- SSH root login disabled
+- Password authentication disabled
+- Firewall (UFW) configured
+- Fail2Ban installed and active
+- System updates applied
+- Logging and monitoring enabled
