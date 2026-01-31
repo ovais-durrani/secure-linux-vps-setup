@@ -1,3 +1,4 @@
+```
 Internet
    |
 [ Firewall (UFW) ]
@@ -8,3 +9,4 @@ Internet
    |-- Fail2Ban
    |-- System Logs
    |-- System Updates
+```
